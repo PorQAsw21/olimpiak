@@ -1,4 +1,4 @@
-# olimpiak
+# olimpiak weblap
 ## GitHub prooooba
-## GitHub letoltesProba
-## GitHub feloltes La Casa de Papel
+## készítő: Anakin Skywalker
+## 9.A csop1
